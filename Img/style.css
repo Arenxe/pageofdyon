@@ -1,0 +1,54 @@
+#titulo {
+    color: white;
+        text-align: center;
+        border: 5px black;
+        margin: 15px ;
+        padding: 15px ;
+        background-color: gray;
+        
+
+}
+
+
+#fondo {
+    background-color: burlywood;
+}
+
+
+
+.post {
+    color: black;
+    text-align: center;
+    font-family: monospace;
+}
+
+.img {
+    border-radius: 5px;
+    border: 5px black solid;
+
+}
+
+
+#footer {
+    text-align: center;
+    color: gray;
+    border: 5px cornflowerblue dotted;
+    margin: 15px;
+}
+
+a:link {
+    color: rgb(0, 0, 0);
+}
+
+a:visited {
+    color: blueviolet;
+
+}
+
+a:hover {
+    color: rgb(59, 139, 115);
+}
+
+a:active {
+    color: yellow;
+}
